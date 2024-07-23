@@ -1,4 +1,4 @@
-# NVIDIA CONTAINER TOOLKIT软件安装包
+# NVIDIA CONTAINER TOOLKIT deb软件安装包
 
 在Docker容器中使用GPU
 
